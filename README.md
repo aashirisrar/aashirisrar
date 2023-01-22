@@ -8,7 +8,6 @@ Looking forward to.
 🌱 Interests:
 
 + Web development.
-- Mobile App development.
 
 
 💬 Reach me by email or LinkedIn! aashirisrar968@gmail.com | https://pk.linkedin.com/in/aashir-israr
