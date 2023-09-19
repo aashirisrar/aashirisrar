@@ -3,7 +3,7 @@ My name is Aashir and I'm a computer science student from Pakistan. Here's some 
 
 ⚡ Work experience:
 
-Looking forward to.
+Web Development Intern @ CodSoft
 
 🌱 Interests:
 
