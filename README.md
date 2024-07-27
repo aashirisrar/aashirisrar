@@ -4,8 +4,6 @@ My name is Aashir and I'm a computer science student from Pakistan. Here's some 
 ⚡ Work experience:
 
 + Web Development Intern @ NetSol Technologies
-+ Web Development Intern @ Swift Solvers
-+ Web Development Intern @ CodSoft
 
 🌱 Interests:
 
