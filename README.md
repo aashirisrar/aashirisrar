@@ -1,14 +1,17 @@
-Hi there 👋
-My name is Aashir and I'm a computer science student from Pakistan. Here's some info about me!
+Hi there 👋, I'm Aashir
 
-⚡ Work experience:
+I’m a full-stack developer and founder at [hollowmorphic](https://hollowmorphic.com), where we craft cutting-edge tools that help businesses scale effortlessly. 
 
-+ Web Development Intern @ NetSol Technologies
+My passion lies in AI-driven solutions and SaaS development that boost productivity and streamline workflows.
 
-🌱 Interests:
+💡 What I Do
+🏗 Building scalable SaaS & web solutions
+⚡ Crafting AI-powered tools
+🔧 Full-stack development
 
-+ Web development.
+📬 Get in Touch
+📧 Email: aashir@hollowmorphic.com
+🔗 LinkedIn: [Aashir Israr](https://pk.linkedin.com/in/aashir-israr)
 
-
-💬 Reach me by email or LinkedIn! aashirisrar968@gmail.com | https://pk.linkedin.com/in/aashir-israr
+Let's build something amazing together! 🚀
 
